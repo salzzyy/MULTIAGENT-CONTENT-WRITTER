@@ -135,6 +135,8 @@ article_output.json:
 ### Directory Structure
 
 
+```text
+
 multiagent-content-writer/
 │
 ├── agents/
@@ -158,7 +160,7 @@ multiagent-content-writer/
 └── .env                       # API key configuration
 
 
-
+```
 
 
 ### Technical Components
