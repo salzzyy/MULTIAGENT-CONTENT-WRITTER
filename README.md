@@ -1,7 +1,7 @@
 # Multi-Agent Content Writing System
 
 
-![Agent Interaction Diagram](ai agent.png)
+![Agent Interaction Diagram](agent_dig.png)
 
 ## Overview
 
